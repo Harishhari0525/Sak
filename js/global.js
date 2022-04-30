@@ -2,7 +2,7 @@
 Theme by: WebThemez.com 
 */
 $( function() {
-        var endDate = "May 01, 2022 12:00:00";
+        var endDate = "May 01, 2022 00:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
